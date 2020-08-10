@@ -5,5 +5,7 @@
 (https://www.w3schools.com/nodejs/nodejs_url.asp - Modulo URL ler depois)
 5 - https://www.w3schools.com/nodejs/nodejs_filesystem.asp - Modulo do sistema de arquivos do Nodejs
 (https://www.w3schools.com/nodejs/nodejs_uploadfiles.asp - Ler depois)
-
+6 - https://www.w3schools.com/nodejs/nodejs_url.asp - Modulo de URL do Nodejs
+7 - https://www.w3schools.com/nodejs/nodejs_npm.asp - Nodejs e Npm
+8 - https://www.w3schools.com/nodejs/nodejs_events.asp - Eventos nodejs
 
