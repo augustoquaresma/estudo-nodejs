@@ -8,4 +8,6 @@
 6 - https://www.w3schools.com/nodejs/nodejs_url.asp - Modulo de URL do Nodejs
 7 - https://www.w3schools.com/nodejs/nodejs_npm.asp - Nodejs e Npm
 8 - https://www.w3schools.com/nodejs/nodejs_events.asp - Eventos nodejs
+9 - https://www.w3schools.com/nodejs/nodejs_uploadfiles.asp - Uload de aquivos com nodejs
+10 - https://www.w3schools.com/nodejs/nodejs_email.asp - Envio de email com node
 
